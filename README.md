@@ -7,14 +7,14 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" onclick="return false;" style="pointer-events: none;">
 </div>
 
 ---
 
 ## 🌟 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" onclick="return false;" style="pointer-events: none;">
 
 🌱 **Passionate Developer** from Maharashtra, India  
 🎓 **B.E. Computer Engineering** Student  
@@ -27,27 +27,10 @@
 
 ---
 
-## 🎮 Mini Snake Game (Just for Fun!)
 
 <div align="center">
 
-```
-🐍 SNAKE GAME - Use WASD to play!
-┌─────────────────────────────────────┐
-│  🍎     🐍🟢🟢         🍎          │
-│                                     │
-│     🍎            🐍🟢              │
-│                                     │
-│          🍎                  🍎     │
-│                                     │
-│     🍎        🍎                    │
-│                                     │
-│                        🍎           │
-└─────────────────────────────────────┘
-Score: 🏆 High Score: 42 | Current: 15
-```
-
-*Click [here](https://saadsyed07.github.io/snake-game) to play the real version!*
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" onclick="return false;" style="pointer-events: none;">
 
 </div>
 
@@ -93,8 +76,6 @@ Score: 🏆 High Score: 42 | Current: 15
 ### 🔸 Coderoom - Online Code Editor
 *A powerful front-end code editor with live preview*
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 **Features:**
 - 🎨 HTML, CSS & JS support
 - 📱 Live preview
@@ -108,8 +89,6 @@ Score: 🏆 High Score: 42 | Current: 15
 
 ### 🔸 Blogify - Full Stack Blog
 *Complete blog platform with modern features*
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 **Features:**
 - ✍️ Create & Edit blogs
@@ -130,8 +109,6 @@ Score: 🏆 High Score: 42 | Current: 15
 ### 🔸 Result Portal - Student Management System
 *Academic result management platform for students and admins*
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50%">
-
 **Features:** 🎓 Student Dashboard | 👨‍💼 Admin Panel | 📊 Result Analytics | 📱 Responsive Design
 
 **[🌐 Live Demo](https://result-portal-eta.vercel.app/) | [📂 GitHub](https://github.com/Saadsyed07/Result-Portal)**
@@ -147,16 +124,16 @@ Score: 🏆 High Score: 42 | Current: 15
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saadsyed07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadsyed07&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saadsyed07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" onclick="return false;" style="pointer-events: none;"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadsyed07&layout=compact&langs_count=8&theme=tokyonight" onclick="return false;" style="pointer-events: none;"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saadsyed07&theme=tokyonight" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saadsyed07&theme=tokyonight" alt="GitHub Streak" onclick="return false;" style="pointer-events: none;">
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saadsyed07&theme=tokyonight&row=1&column=7" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Saadsyed07&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" onclick="return false;" style="pointer-events: none;">
 </div>
 
 ---
@@ -164,7 +141,7 @@ Score: 🏆 High Score: 42 | Current: 15
 ## 🎯 Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saadsyed07&theme=tokyo-night&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&hide_border=true" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saadsyed07&theme=tokyo-night&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&hide_border=true" alt="GitHub Activity Graph" onclick="return false;" style="pointer-events: none;">
 </div>
 
 ---
@@ -200,7 +177,7 @@ Score: 🏆 High Score: 42 | Current: 15
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" onclick="return false;" style="pointer-events: none;">
 
 **My Setup:**
 - 💻 **OS**: Windows 11 / Ubuntu 22.04
@@ -217,7 +194,7 @@ Score: 🏆 High Score: 42 | Current: 15
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" onclick="return false;" style="pointer-events: none;">
 
 ```javascript
 const saad = {
@@ -264,16 +241,16 @@ const saad = {
 <a href="https://github.com/Saadsyed07">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-<a href="https://dev.to/saadsyed07">
+<!-- <a href="https://dev.to/saadsyed07">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
-</a>
+</a> -->
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" onclick="return false;" style="pointer-events: none;">
 </div>
 
 <div align="center">
@@ -282,12 +259,19 @@ const saad = {
 
 **Thanks for visiting! Let's build something amazing together! 🚀**
 
-<img src="https://komarev.com/ghpvc/?username=Saadsyed07&style=flat-square&color=blue" alt="Profile Views">
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saadsyed07&style=flat-square&color=blue" alt="Profile Views" onclick="return false;" style="pointer-events: none;">
+  <img src="https://komarev.com/ghpvc/?username=Saadsyed07&label=Total+Views&style=flat-square&color=red" alt="Total Views" onclick="return false;" style="pointer-events: none;">
+  <img src="https://komarev.com/ghpvc/?username=Saadsyed07&label=Weekly+Visitors&style=flat-square&color=green" alt="Weekly Views" onclick="return false;" style="pointer-events: none;">
+  <img src="https://komarev.com/ghpvc/?username=Saadsyed07&label=Daily+Hits&style=flat-square&color=orange" alt="Daily Views" onclick="return false;" style="pointer-events: none;">
+</div>
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" onclick="return false;" style="pointer-events: none;"/>
 </div>
+
+---
