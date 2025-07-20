@@ -93,13 +93,7 @@
   
 [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
-### 🎯 Skill Voting System
-*Vote for my best skills! (Click to interact)*
 
-[![JavaScript](https://img.shields.io/badge/Vote-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/Saadsyed07)
-[![React](https://img.shields.io/badge/Vote-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/Saadsyed07)
-[![Node.js](https://img.shields.io/badge/Vote-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/Saadsyed07)
-[![MongoDB](https://img.shields.io/badge/Vote-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/Saadsyed07)
 
 ### 🏆 Achievement Unlock System
 
@@ -159,7 +153,13 @@
 ### 🔸 Result Portal - Student Management System
 *Academic result management platform for students and admins*
 
-**Features:** 🎓 Student Dashboard | 👨‍💼 Admin Panel | 📊 Result Analytics | 📱 Responsive Design
+
+
+**Features:**
+- 🎓 Student Dashboard
+- 👨‍💼 Admin Panel
+- 📊 Result Analytics
+- 📱 Responsive Design
 
 **[🌐 Live Demo](https://result-portal-eta.vercel.app/) | [📂 GitHub](https://github.com/Saadsyed07/Result-Portal)**
 
@@ -184,16 +184,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saadsyed07&theme=tokyonight" alt="GitHub Streak" style="pointer-events: none;" draggable="false">
-</div>
-
-**📈 Additional Live Metrics:**
-
-<div align="center">
-  
-[![Commits](https://img.shields.io/github/commit-activity/m/Saadsyed07/Saadsyed07?style=for-the-badge&logo=github)](https://github.com/Saadsyed07)
-[![Last Commit](https://img.shields.io/github/last-commit/Saadsyed07/Saadsyed07?style=for-the-badge&logo=github)](https://github.com/Saadsyed07)
-[![Repo Size](https://img.shields.io/github/repo-size/Saadsyed07/Saadsyed07?style=for-the-badge&logo=github)](https://github.com/Saadsyed07)
-
 </div>
 
 ---
