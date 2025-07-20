@@ -17,12 +17,12 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" style="pointer-events: none;" draggable="false">
 
 🌱 **Passionate Developer** from Maharashtra, India  
-🎓 **B.E. Computer Engineering** Student  
+🎓 **B.Tech Computer Engineering** Student  
 🚀 **Vice President** @ Decode Developer Students Club (DDSC)  
 💻 Building **useful, responsive & real-world** web applications  
 ⚡ **Fun fact**: Dark mode is always my first choice!  
 📫 **Reach me**: saadsyed33922@gmail.com  
-🕒 **Current Time**: [![Time](https://img.shields.io/badge/Time-IST-blue?style=flat-square)](https://time.is/IST)
+
 
 <!-- Interactive Profile Views Counter -->
 <div align="left">
@@ -30,18 +30,6 @@
 </div>
 
 <br clear="right"/>
-
----
-
-## 🎵 Currently Vibing To
-
-<div align="center">
-  
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=spotify)](https://open.spotify.com/user/spotify)
-
-*🎧 Coding to the rhythm of great music*
-
-</div>
 
 ---
 
@@ -97,18 +85,9 @@
 ![Total Views](https://komarev.com/ghpvc/?username=Saadsyed07&label=Total+Profile+Views&style=flat-square&color=red)
 ![Weekly Visitors](https://komarev.com/ghpvc/?username=Saadsyed07&label=This+Week&style=flat-square&color=green)
 ![Monthly Hits](https://komarev.com/ghpvc/?username=Saadsyed07&label=This+Month&style=flat-square&color=blue)
-
-**🌎 Visitor Map:**
-  
-[![Visitor Map](https://visitcount.itsvg.in/api?id=Saadsyed07&icon=2&color=6)](https://visitcount.itsvg.in)
-
-</div>
-
 ---
 
-## 🎲 Interactive Features
 
-<div align="center">
 
 ### 🎭 Daily Dev Quote Generator
   
