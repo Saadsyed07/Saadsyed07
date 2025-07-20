@@ -1,13 +1,7 @@
-# <div align="center">👨‍💻 Syed Saad</div>
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;VP+%40+DDSC;Building+Scalable+Web+Apps+%F0%9F%9A%80;Interactive+Portfolio+%F0%9F%8C%9F)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" style="pointer-events: none;" draggable="false">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=32&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=100&lines=%24+who+am+i;%3E+syed_saad;%24+cat+skills.txt;%3E+full_stack_developer%7Cmern_specialist%7C;%24+echo+%22Welcome+to+my+profile%22;%3E+Ready+to+code%21+%F0%9F%9A%80" alt="Typing SVG" />
+  </h1>
 </div>
 
 ---
