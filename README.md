@@ -208,7 +208,7 @@
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Achievements & Journey
 
 <div align="center">
 
@@ -231,11 +231,6 @@
       └── 👥 Mentoring junior developers
 ```
 
-**🏅 Earned Badges & Certifications:**
-
-[![Google](https://img.shields.io/badge/Google-Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/)
-[![Meta](https://img.shields.io/badge/Meta-Frontend-1877F2?style=for-the-badge&logo=meta&logoColor=white)](https://www.facebook.com/business/learn)
-[![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
 </div>
 
@@ -309,7 +304,7 @@ console.log("Thanks for checking my profile! 🎉");
 
 <div align="center">
 
-**💼 Professional Networks:**
+
 
 <a href="https://www.linkedin.com/in/profile-saad-syed">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -321,22 +316,6 @@ console.log("Thanks for checking my profile! 🎉");
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-**🎮 Gaming & Social:**
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-</a>
-
-**📱 Quick Contact:**
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](#)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](#)
 
 </div>
 
@@ -354,11 +333,7 @@ console.log("Thanks for checking my profile! 🎉");
 - [x] ✅ **Portfolio V2** - Interactive portfolio website
 - [x] ✅ **DDSC Leadership** - Leading tech workshops
 
-**📈 2025 Goals Progress:**
 
-![Progress](https://progress-bar.dev/75/?title=Learning%20New%20Tech&width=300)
-![Progress](https://progress-bar.dev/60/?title=Open%20Source%20Contributions&width=300)
-![Progress](https://progress-bar.dev/90/?title=Project%20Completion&width=300)
 
 </div>
 
@@ -380,10 +355,7 @@ console.log("Thanks for checking my profile! 🎉");
 - ☕ **Coffee Consumed**: ![](https://img.shields.io/badge/Coffee-∞-brown)
 - 🐛 **Bugs Fixed**: ![](https://img.shields.io/badge/Bugs-404--Not--Found-red)
 
-**🎮 Interactive Elements:**
-- Click on badges to explore more!
-- Hover over images for surprises!
-- Check back weekly for updated stats!
+
 
 </div>
 
