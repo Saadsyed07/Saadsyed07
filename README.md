@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=%24+whoami;%3E+syed_saad;%24+cat+skills.txt;%3E+fullstack_dev%7Cmern_specialist;%24+echo+%22Welcome%22;%3E+Ready+to+code%21+%F0%9F%9A%80" 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=400&height=120&lines=%24+whoami;%3E+syed_saad;%24+cat+role;%3E+fullstack_dev;%3E+mern_specialist;%24+echo+ready;%3E+Let%27s+code%21+%F0%9F%9A%80" 
          alt="Terminal Header" />
   </h1>
 </div>
